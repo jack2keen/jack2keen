@@ -1,21 +1,23 @@
 # Hi there, I'm Somesh 👋
 
-Welcome to my GitHub! I am a passionate Python Developer with experience in building applications, automation scripts, data analysis, and more. I love solving problems and exploring new Python libraries and frameworks. Feel free to check out my projects below!
+Welcome to my GitHub! I am a passionate Full Stack AI Developer with experience in building applications, automation scripts, data analysis, and more. I love solving problems and exploring new libraries and frameworks. Feel free to check out my projects below!
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, SQL, Bash
-- **Web Development**: Flask, 
+- **Languages**: Python, SQL, Bash,
+- **Web Development**: Flask,  Java/TypeScirpt, LLMs
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Database**: PostgreSQL, MySQL,
 - **Version Control**: Git, GitHub
-- **Cloud**: Google Cloud
-- **DevOps**: [Still Learning]
+- **Cloud**: Google Cloud, Azure
+- **DevOps**: CI/CD
 - **Others**: API development, Automation, Web scraping, Google Sheets
 
 ## 🚀 Projects
 
 Here are some of the Python projects I’ve worked on:
+### [MitasuLabs - SaaS for D2C Analytics] 
+www.mitasulabs.com
 
 ### [College DBMS Web-Application]
 
